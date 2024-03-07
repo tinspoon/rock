@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://birdeye.so/token/RoCKJYqjZ8ZTqWb7YoEkALuu2wbNfM228YKhUtxXTHj?chain=solana"
           target="_blank"
           rel="noopener noreferrer"
         >
