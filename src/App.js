@@ -1,4 +1,4 @@
-import logo from './rock.png';
+import logo from './bbc.png';
 import './App.css';
 
 function App() {
