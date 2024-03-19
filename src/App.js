@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          A rock.
+          BBC on Solana.
         </p>
         <a
           className="App-link"
-          href="https://birdeye.so/token/RoCKJYqjZ8ZTqWb7YoEkALuu2wbNfM228YKhUtxXTHj?chain=solana"
+          href="https://birdeye.so/token/?chain=solana"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Trade a rock
+          Trade BBC
         </a>
       </header>
     </div>
